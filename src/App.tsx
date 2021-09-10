@@ -1,10 +1,7 @@
-import styled from 'styled-components';
-
-
 export function App() {
   return (
     <div className="App">
-      <Title>Hello World</Title>
+      <h1>Hello World</h1>
     </div>
   );
 }
